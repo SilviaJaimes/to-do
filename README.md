@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Aplicación de escritorio desarrollada en **Java** utilizando **NetBeans** y **Swing** para la gestión de tareas y sprints. Permite a los usuarios organizar sus pendientes, clasificarlos por categorías, prioridades y estados, y agruparlos en **sprints**. El sistema cuenta con **roles de usuario** que diferencian las funciones de administradores y usuarios normales, asegurando un uso seguro y eficiente de la información.
+Aplicación de escritorio desarrollada en **Java** utilizando **NetBeans** y **Swing** para la gestión de tareas y sprints. Permite a los usuarios organizar sus pendientes, clasificarlos por categorías, prioridades y estados, y agruparlos en **sprints** usando la metodología agil de **SCRUM**. El sistema cuenta con **roles de usuario** que diferencian las funciones de administradores y usuarios normales, asegurando un uso seguro y eficiente de la información.
 
 ---
 
