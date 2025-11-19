@@ -253,7 +253,7 @@ public class SprintFrame extends JFrame {
 
             boolean exito = sprintController.crearSprint(sprint);
             if(exito){
-                JOptionPane.showMessageDialog(dialog, "Tarea agregada al sprint");
+                JOptionPane.showMessageDialog(dialog, "Sprint creado exitosamente");
 
                 int indexSprint = cbSprints.getSelectedIndex();
                 if(indexSprint >= 0){
@@ -263,7 +263,7 @@ public class SprintFrame extends JFrame {
 
                 dialog.dispose();
             } else {
-                JOptionPane.showMessageDialog(dialog, "Error al agregar la tarea");
+                JOptionPane.showMessageDialog(dialog, "Error al crear el sprint");
             }
         });
 
